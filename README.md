@@ -1,4 +1,4 @@
-# BinaryStateAI
+# BinaryStateJS
 
 A lightweight Discord bot that delivers wisdom, tracks uptime, and responds to your commands.
 
