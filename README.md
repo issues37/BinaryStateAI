@@ -5,16 +5,16 @@ A lightweight Discord bot that delivers wisdom, tracks uptime, and responds to y
 ## Features
 
 - **Quote Command** - Get random inspirational quotes from tech legends and thinkers
+- **Auto Uptime** - Periodic status updates to your server's upstate channel
 - **Ping/Pong** - Check if the server is alive with a simple ping
 - **Time Check** - Display the current server time
-- **Auto Uptime** - Periodic status updates to your server's upstate channel
 
 ## Commands
 
 | Command | Description |
 |---------|-------------|
-| `!ping` | Check if the bot is online |
 | `!test` | Quick response test |
+| `!ping` | Check if the bot is online |
 | `!binary` | Returns state indicator |
 | `!time` | Shows current server time |
 | `!quote` | Get a random inspirational quote |
