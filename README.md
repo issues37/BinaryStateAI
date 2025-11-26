@@ -49,13 +49,7 @@ A lightweight Discord bot that delivers wisdom, tracks uptime, and responds to y
 
 ## Quote Collection
 
-The bot includes a curated collection of quotes from notable figures including:
-- Steve Jobs
-- Albert Einstein
-- Ken Thompson
-- John Carmack
-- Edsger Dijkstra
-- And many more...
+The bot includes a curated collection of quotes from notable figures.
 
 ## License
 
